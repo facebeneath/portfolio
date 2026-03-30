@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+
+  <url>
+    <loc>https://aldindelic.de/</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+
+  <url>
+    <loc>https://aldindelic.de/herbsta/</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://aldindelic.de/kaiowas/</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+  <url>
+    <loc>https://aldindelic.de/photoshop-gallery/</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://aldindelic.de/redesign-poster.png</image:loc>
+      <image:caption>Neugestaltung des Filmplakats von The Grey</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/retouch.png</image:loc>
+      <image:caption>Porträtretusche in Photoshop</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/Burning-Sun.png</image:loc>
+      <image:caption>Zwei Bilder zu einer harmonischen Komposition kombiniert</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/Beach.png</image:loc>
+      <image:caption>Visuelle Komposition aus einem Bild in vier Rahmen</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/TheLost.png</image:loc>
+      <image:caption>Verloren. Allein. Kampf ums Überleben</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/crow.png</image:loc>
+      <image:caption>Krähe und Mond – harmonische Bildkomposition</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/Poster.png</image:loc>
+      <image:caption>Porträtposter mit kreativem Blur-Effekt</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/wolf.png</image:loc>
+      <image:caption>Digitale Wolf-Illustration mit Farbkontrast</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/Sliced.png</image:loc>
+      <image:caption>Textdesign mit „sliced“-Effekt</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/Typography.png</image:loc>
+      <image:caption>Laufender Mann im Tunnel – Perspektive &amp; Licht</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/Vogue%20Gaga.png</image:loc>
+      <image:caption>Vogue-Cover Lady Gaga – elegant und modern</image:caption>
+    </image:image>
+  </url>
+
+
+  <url>
+    <loc>https://aldindelic.de/illustrator-gallery/</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://aldindelic.de/two-face.png</image:loc>
+      <image:caption>Vektorillustration zweigeteiltes Gesicht</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/moon.svg</image:loc>
+      <image:caption>Minimalistische Nachtszene</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/facebeneath.png</image:loc>
+      <image:caption>Persönliches Logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/Spiral.svg</image:loc>
+      <image:caption>Spiralmuster, geometrisches Layout</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/E.png</image:loc>
+      <image:caption>Icon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/Sunset.svg</image:loc>
+      <image:caption>Minimalistischer Sonnenuntergang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldindelic.de/w1739245627_Baby_G_64646.png</image:loc>
+      <image:caption>Giraffenillustration, präzise Vektoren</image:caption>
+    </image:image>
+  </url>
+
+
+  <url>
+    <loc>https://aldindelic.de/davinci-gallery/</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <video:video>
+      <video:content_loc>https://aldindelic.de/facebeneath.mp4</video:content_loc>
+      <video:thumbnail_loc>https://aldindelic.de/facebeneath.png</video:thumbnail_loc>
+      <video:title>DaVinci Resolve Projekt</video:title>
+      <video:description>Farbkorrektur, Schnitt und Effekte in DaVinci Resolve</video:description>
+      <video:duration>41</video:duration>
+    </video:video>
+  </url>
+
+</urlset>

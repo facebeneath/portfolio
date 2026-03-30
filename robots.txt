@@ -1,0 +1,4 @@
+User-agent: \*
+Disallow:
+
+Sitemap: https://www.aldindelic.de/custom-sitemap.xml
