@@ -1609,6 +1609,24 @@ p {
   .img-wrapper {
     height: 220px;
   }
+
+  .portfolio-category[data-category="klijent"] .grid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .portfolio-category[data-category="klijent"] .portfolio-item {
+    width: 90%;
+    max-width: 420px;
+  }
+
+  .portfolio-category[data-category="klijent"] .portfolio-item img {
+    width: 100%;
+    height: auto;
+    max-height: 240px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
 }
 
 body > p {
