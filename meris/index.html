@@ -10,10 +10,12 @@
       name="description"
       content="Profesionalna ugradnja video nadzora u Bihaću i BiH. Servis kamera, premještaj sistema i popravka računara i laptopa. Brza i pouzdana usluga."
     />
+
     <meta
       name="keywords"
       content="video nadzor Bihać, kamere BiH, CCTV Bihać, ugradnja kamera, servis računara, popravka laptopa, sigurnosni sistemi BiH"
     />
+
     <meta name="author" content="Meris Video-Nadzor" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://videonadzor.de/" />
@@ -32,7 +34,6 @@
     <meta property="og:image" content="https://videonadzor.de/logomeris1.png" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:type" content="image/png" />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Video Nadzor Bihać" />
@@ -47,19 +48,14 @@
     <meta name="twitter:image:alt" content="Meris Video Nadzor - Bihać" />
 
     <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <meta name="apple-mobile-web-app-title" content="Video Nadzor" />
+
     <link rel="stylesheet" href="styles.css" id="app-styles" />
-
-    <script>
-      const ASSET_VERSION = "1";
-      const versionParam = "?v=" + encodeURIComponent(ASSET_VERSION);
-
-      document.getElementById("app-styles").href = "styles.css" + versionParam;
-
-      const appScript = document.createElement("script");
-      appScript.src = "script.js" + versionParam;
-      appScript.defer = true;
-      document.head.appendChild(appScript);
-    </script>
 
     <script type="application/ld+json">
       {
@@ -68,6 +64,7 @@
         "name": "Meris Video-Nadzor",
         "url": "https://videonadzor.de/",
         "image": "https://videonadzor.de/logomeris1.png",
+        "logo": "https://videonadzor.de/logomeris1.png",
         "telephone": "+38762938935",
         "description": "Ugradnja video nadzora i servis računara u Bihaću i okolini.",
         "address": {
@@ -78,6 +75,18 @@
         },
         "areaServed": "BiH"
       }
+    </script>
+
+    <script>
+      const ASSET_VERSION = "2";
+      const versionParam = "?v=" + encodeURIComponent(ASSET_VERSION);
+
+      document.getElementById("app-styles").href = "styles.css" + versionParam;
+
+      const appScript = document.createElement("script");
+      appScript.src = "script.js" + versionParam;
+      appScript.defer = true;
+      document.head.appendChild(appScript);
     </script>
   </head>
 
